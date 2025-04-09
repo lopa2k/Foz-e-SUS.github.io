@@ -3,6 +3,5 @@
   publish = "_site"
 
 [build.environment]
-  RUBY_VERSION = "3.0.0"
-  BUNDLER_VERSION = "2.5.9"
+  RUBY_VERSION = "3.1.0"
   NODE_VERSION = "20"  # Usa a imagem "Ubuntu Noble" (Ruby 3.2.2 incluso)
