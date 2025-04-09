@@ -1,7 +1,7 @@
 [build]
   command = "bundle install && bundle exec jekyll build --trace"
-  publish = "_site"
-
-[build.environment]
-  RUBY_VERSION = "3.1.0"
-  NODE_VERSION = "20"  # Usa a imagem "Ubuntu Noble" (Ruby 3.2.2 incluso)
+  environment = { 
+    RUBY_VERSION = "3.1.0",  # Versão mais moderna e suportada
+    BUNDLER_VERSION = "2.4.22",
+    NODE_VERSION = "20"
+  }
