@@ -1,4 +1,4 @@
-theme: just-the-docs  # Tema principal
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-feed
