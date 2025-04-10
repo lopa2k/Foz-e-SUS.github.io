@@ -3,8 +3,6 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-pages  # Corrigido: agora está com a indentação correta
-
 # Configurações específicas do tema (consulte a documentação)
 just_the_docs:
   aux_links:
