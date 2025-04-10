@@ -1,6 +1,6 @@
 [build]
-  command = "gem install bundler -v 2.6.2 && bundle install && bundle exec jekyll build --trace"
-  publish = "_site"
+command = "bundle install && /opt/build/cache/bundle/ruby/3.4.0/bin/bundle exec jekyll build --trace"
+publish = "_site"
 
 [build.environment]
   RUBY_VERSION = "3.4.2"
