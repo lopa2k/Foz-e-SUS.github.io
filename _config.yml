@@ -3,9 +3,12 @@ theme: "just-the-docs"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-# Configurações específicas do tema (consulte a documentação)
+
 just_the_docs:
   aux_links:
     "Repositório no GitHub":
-      https://github.com/lopa2k/esus.pmfi
-baseurl: https://github.com/lopa2k/esus.pmfi
+      href: https://github.com/lopa2k/esus.pmfi
+
+# baseurl só precisa do path, não da URL completa
+# Use isso apenas se estiver hospedando num subdiretório (como no GitHub Pages)
+baseurl: ""  # ou "/esus.pmfi" se for em GitHub Pages
