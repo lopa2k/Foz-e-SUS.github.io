@@ -12,3 +12,5 @@ just_the_docs:
 # baseurl só precisa do path, não da URL completa
 # Use isso apenas se estiver hospedando num subdiretório (como no GitHub Pages)
 baseurl: ""  # ou "/esus.pmfi" se for em GitHub Pages
+custom_css:
+    - "/assets/css/custom.scss"

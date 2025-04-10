@@ -1,0 +1,12 @@
+// Primeiro, importe o CSS base do Just the Docs
+@import "just-the-docs";
+
+// Agora, suas personalizações:
+$body-background-color: #f9f9ff; // muda o fundo do corpo
+$sidebar-color: #2a2a2a; // cor do menu lateral
+$sidebar-background-color: #f0f0f0;
+$link-color: #0057e7; // links
+
+// Você pode sobrescrever qualquer variável da lista oficial:
+$body-heading-color: #111;
+$body-text-color: #222;
