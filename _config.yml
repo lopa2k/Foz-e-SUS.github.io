@@ -1,13 +1,13 @@
-title: Seu Site
 theme: just-the-docs  # Tema principal
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - just-the-docs  # Adicione esta linha!
+  - just-the-docs
+- jekyll-pages
 
 # Configurações específicas do tema (consulte a documentação)
 just_the_docs:
   aux_links:
     "Repositório no GitHub":
-      href: https://github.com/lopa2k/esus.pmfi
+      href: https://github.com/just-the-docs
