@@ -7,4 +7,5 @@ plugins:
 just_the_docs:
   aux_links:
     "Repositório no GitHub":
-      href: https://github.com/just-the-docs
+      https://github.com/lopa2k/esus.pmfi
+baseurl: https://github.com/lopa2k/esus.pmfi
