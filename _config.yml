@@ -4,7 +4,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - just-the-docs
-- jekyll-pages
+  - jekyll-pages  # Corrigido: agora está com a indentação correta
 
 # Configurações específicas do tema (consulte a documentação)
 just_the_docs:
