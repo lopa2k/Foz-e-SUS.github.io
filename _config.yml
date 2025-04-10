@@ -3,7 +3,6 @@ theme: just-the-docs  # Tema principal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - just-the-docs
   - jekyll-pages  # Corrigido: agora está com a indentação correta
 
 # Configurações específicas do tema (consulte a documentação)
