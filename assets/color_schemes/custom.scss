@@ -1,11 +1,10 @@
-// Agora, suas personalizações:
-$body-background-color: #f9f9ff; // muda o fundo do corpo
-$sidebar-color: #2a2a2a; // cor do menu lateral
-$sidebar-background-color: #f0f0f0;
-$link-color: #0057e7; // links
+$body-background-color: #fff8f0;
+$body-heading-color: #2b2b2b;
+$body-text-color: #333333;
 
-// Você pode sobrescrever qualquer variável da lista oficial:
-$body-heading-color: #111;
-$body-text-color: #222;
+$nav-background-color: #333333;
+$nav-text-color: #ffffff;
+$nav-child-link-color: #dddddd;
 
-@import "just-the-docs";
+$link-color: #ff7a00;
+$btn-primary-color: #ff7a00;
