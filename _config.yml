@@ -13,5 +13,5 @@ just_the_docs:
 # Use isso apenas se estiver hospedando num subdiretório (como no GitHub Pages)
 baseurl: ""  # ou "/esus.pmfi" se for em GitHub Pages
 custom_css:
-  - assets/css/custom.scss
+  - "assets/css/custom.scss"
 color_scheme: custom
